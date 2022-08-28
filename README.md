@@ -1,13 +1,13 @@
 ### Day 9 Challenge ###
 
-1. Create a ‘day09_challenges’ folder
-3. Inside the ‘day09_challenges’ folder:
-    1. Create an ‘index.html’ file
-    2. Create an ‘img’ folder
-    3. Create a ‘css’ folder
-4. Inside the day09/css folder 
-    1. Create a ‘styles.css’ file
-    2. Create a ‘nav.css’ file
+1. Create a `day09_challenges` folder
+3. Inside the `day09_challenges` folder:
+    1. Create an `index.html` file
+    2. Create an `img` folder
+    3. Create a `css` folder
+4. Inside the `day09/css` folder 
+    1. Create a `styles.css` file
+    2. Create a `nav.css` file
 5. Open the empty `day09/index.html` file and copy and paste the code from the `index.html` that is in this repo - do the same for the `styles.css` and the `nav.css` files
 6. Follow the instructions (1-7) in the `index.html` file to "ADD" or "EDIT" the content
 7. Edit the CSS to convert the navigation to use "flex" and not "display-block" (aka "floated blocks")
