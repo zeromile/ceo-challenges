@@ -1,4 +1,4 @@
-### Day 9 Challenge ###
+# Day 9 Challenge #
 
 1. Create a `day09_challenges` folder
 3. Inside the `day09_challenges` folder:
