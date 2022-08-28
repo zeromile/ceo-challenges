@@ -1,0 +1,50 @@
+body { background-color: aquamarine; }
+
+.flex-row { 
+    display: flex; /* sets the display property of the container to "flex". */
+    flex-wrap: wrap; /* tells the browsers to "wrap" flex items when browser window is too small. */
+}
+
+/*  this class is created in order to style 
+    items (that this class has been assigned to) 
+    inside the flex container. */
+.column { 
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 30px;
+    font-size: 30px;
+}
+
+/*  these classes determine the "width" of 
+    each item within the flex container 
+    that they are applied to. */
+.widthone { 
+    flex: 1; 
+    }
+.widthtwo {
+    flex: 2;
+    }
+
+
+/*  
+    This is our "media query" function that 
+    temporarily assigns a new value for the "flex" 
+    property (in this case the "width") for each of 
+    the individual column classes - so, in the css
+    above, the flex "width" is set to 1 OR 2 for each item, 
+    which means each colum will occupy either 1 or 2 widths 
+    of the total space. 
+    
+    But in the below CSS we're setting the flex "width" 
+    to 100% which means when flex-wrap is engaged (browser 
+    window width is less than 800px) each item will "wrap", 
+    taking up the full width of the container. 
+    
+    One crucial part to making this work is that the parent 
+    container's "flex-wrap" property must set to "wrap". 
+*/
+@media (max-width:800px) {
+    .widthone, .widthtwo {
+        flex: 100%;
+    }
+}
