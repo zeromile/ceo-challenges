@@ -1,13 +1,13 @@
 nav ul {
-    display: flex; /* sets the display property of the container to "flex". */
-    flex-wrap: wrap; /* tells the browsers to "wrap" flex items when browser window is too small. */
+    /* display: flex; /* sets the display property of the container to "flex". */
+    /* flex-wrap: wrap; /* tells the browsers to "wrap" flex items when browser window is too small. */
     list-style-type: none;
     margin: 0px;
     padding: 0px;
 }
 
 nav ul li {
-    /* display: inline-block; /* this line can be removed when we set the parent element (ul) to "display: flex;" (see above) */
+    display: inline-block; /* this line can be removed when we set the parent element (ul) to "display: flex;" (see above) */
     width: 120px;
     border-style: solid;
     border-width: 1px;
@@ -34,8 +34,6 @@ nav ul li a:hover {
     Will need a media query here that will set the 
     "flex" value to 100% for the "nav ul li" 
 */
-@media (max-width:800px) {
-    nav ul li {
-        flex: 100%;
-    }
+@media () {
+    
 }
