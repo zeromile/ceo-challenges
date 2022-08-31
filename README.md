@@ -1,4 +1,4 @@
-# Challenges for ceo-web-dev #
+# Challenges for the CEO Web Development Class #
 
 ## Current Challenge: ##
 ##### Day 9b, Daily Challenge #####
