@@ -1,7 +1,7 @@
 # Challenges for the CEO Web Development Class #
 
 ## Current Challenge: ##
-##### Day 9b, Daily Challenge #####
+##### Day 9b, Daily Challenge - Tuesday(08/30/2022) #####
 1. Go to github.com and create a new repository named "final-project".
 2. Clone your final-project repository using SSH. Watch [this video](https://youtu.be/ksNbgZlpMo4) for info on how to do that.
 3. Add the following to your final-project folder.
