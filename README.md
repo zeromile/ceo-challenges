@@ -1,5 +1,5 @@
-# Day 9 Challenge #
-
+# Day 9 - Thursday(08/25/2022)  #
+##### Take Home Challenge ####
 1. Create a `day09_challenges` folder
 3. Inside the `day09_challenges` folder:
     1. Create an `index.html` file
