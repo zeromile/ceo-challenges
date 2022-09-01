@@ -1,4 +1,4 @@
-# Day 9b, Challenge - Tuesday(08/30/2022) #
+# Day 9b - Tuesday(08/30/2022) #
 ##### Daily Challenge #####
 1. Go to github.com and create a new repository named "final-project".
 2. Clone your final-project repository using SSH. Watch [this video](https://youtu.be/ksNbgZlpMo4) for info on how to do that.
