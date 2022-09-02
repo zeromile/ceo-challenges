@@ -17,7 +17,7 @@
     2. Create an `img` folder
     3. Create a `css` folder
     4. Create a `fonts` folder
-7. Inside the `day09c` folder: 
+7. Inside the `day09c/css` folder: 
     1. Create a `styles.css` file
     2. Create a `nav.css` file
 8. Open the `day09c/index.html` file and create an HTML template with `!` + `TAB`
