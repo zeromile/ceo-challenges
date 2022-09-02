@@ -9,7 +9,7 @@
     2. Select SSH, not HTTPS
     3. Click on the double-page icon to copy the repo code to your clipboard
 4. On your computer, navigate to the `ceo-web-dev` folder:
-    1. In Bash/Terminal `cd ~/Desktop/ceo-web-dev/`
+    1. In Bash/Terminal `cd ~/Desktop/ceo-web-dev/` (`cd ~/Desktop/OneDrive/ceo-web-dev/` if your computer is using One Drive)
 5. Clone the `day09c` repo:
     1. `git clone` + PASTE YOUR REPO CODE FROM STEP 3 ABOVE
 6. In VSCode navigate to the `day09c` folder and:
