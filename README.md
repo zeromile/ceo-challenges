@@ -11,7 +11,7 @@
 4. On your computer, navigate to the `ceo-web-dev` folder:
     1. In Bash/Terminal `cd ~/Desktop/ceo-web-dev/`
 5. Clone the `day09c` repo:
-    1. `git clone ` + PASTE YOUR REPO CODE
+    1. `git clone ` + PASTE YOUR REPO CODE FROM STEP 3 ABOVE
 6. In VSCode navigate to the `day09c` folder and:
     1. Create an `index.html` file 
     2. Create an `img` folder
