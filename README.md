@@ -2,7 +2,7 @@
 
 ## Current Challenge: ##
 ### Day 9d, Daily Challenge - Tuesday (09/06/2022) ###
-1. Navigate to tonight's repo on GitHub: [day09d](https://github.com/zeromile/day09d)
+1. Navigate to tonight's repo on _my_ GitHub: [day09d](https://github.com/zeromile/day09d)
 2. "Fork" the repo
     - Click on the button that says "Fork" in the upper right hand corner
 3. Choose the owner (you) from the drop-down and leave the repo name as `day09d`
