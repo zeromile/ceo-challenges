@@ -1,7 +1,5 @@
-# Challenges for the CEO Web Development Class #
-
-## Current Challenge: ##
-### Day 9c, Daily Challenge - Thursday(09/01/2022) ###
+## Day 9c - Thursday(09/01/2022) ##
+#### Daily Challenge ####
 1. Close all other files that you may have open in VS Code
 2. Create a `day09c` repo on GitHub.com - be sure the check the box to **create a `README.md`** file
 3. Copy the SSH “code” for the new repo:
@@ -26,7 +24,3 @@
     1. `git add .` to add all the new files and folders to the staging area
     2. `git commit -m "new files"` to commit the staged files to the local repo
     3. `git push origin main` to push the local repo to GitHub
-
-## Past Challenges: ##
-- [Day 09b - Tuesday(08/30/2022)](https://github.com/zeromile/ceo-challenges/tree/day09b)
-- [Day 09 - Thursday(08/25/2022)](https://github.com/zeromile/ceo-challenges/tree/day09)
