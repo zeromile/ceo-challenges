@@ -4,8 +4,7 @@
 1. Sign in to your GitHub account
 2. Click the green `New` button to create a repo
     - Choose the owner (you) from the drop-down and name the repo `day11`
-    - Make sure you check the box next to 
-        - [x] "Add a README.md file"
+    - Make sure you check the box next to :heavy_check_mark: "Add a README.md file"
 3. Copy the SSH “code” for the new repo: (this will be used when we clone the repo on our local computer)
     - Click the green button that says code
     - Select SSH, not HTTPS
