@@ -29,9 +29,3 @@
     - `git commit -m "new files"` to commit the staged files to the local repo
     - `git push origin main` to push the local repo to GitHub
 11. In your browser, refresh your day11 GithHub repo page to see your files
-
-## Past Challenges: ##
-- [Day 09d - Tuesday(09/06/2022)](https://github.com/zeromile/ceo-challenges/tree/day09c)
-- [Day 09c - Thursday(09/01/2022)](https://github.com/zeromile/ceo-challenges/tree/day09c)
-- [Day 09b - Tuesday(08/30/2022)](https://github.com/zeromile/ceo-challenges/tree/day09b)
-- [Day 09 - Thursday(08/25/2022)](https://github.com/zeromile/ceo-challenges/tree/day09)
