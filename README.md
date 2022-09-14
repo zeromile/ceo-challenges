@@ -5,6 +5,7 @@
 2. Click the green `New` button to create a repo
     - Choose the owner (you) from the drop-down and name the repo `day11`
     - Make sure you check the box next to :heavy_check_mark: "Add a README.md file"
+    - Click the green ` Create repo ` button at the bottom
 3. Copy the SSH “code” for the new repo: (this will be used when we clone the repo on our local computer)
     - Click the green button that says code
     - Select SSH, not HTTPS
